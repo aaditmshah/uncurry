@@ -1,0 +1,15 @@
+{
+    "name":         "uncurry",
+    "description":  "Smart functional programming.",
+    "version":      "1.0.0",
+    "main":         "uncurry.js",
+    "keywords":     ["uncurry", "smart", "functional", "programming"],
+    "author":       "Aadit M Shah (https://aaditmshah.github.io/) <aaditmshah@fastmail.fm>",
+    "maintainers":  "Aadit M Shah (https://aaditmshah.github.io/) <aaditmshah@fastmail.fm>",
+    "contributors": "Aadit M Shah (https://aaditmshah.github.io/) <aaditmshah@fastmail.fm>",
+    "repository":   "github:aaditmshah/uncurry",
+    "homepage":     "https://github.com/aaditmshah/uncurry",
+    "bugs":         "https://github.com/aaditmshah/uncurry/issues",
+    "license":      "MIT",
+    "dependencies": {}
+}
