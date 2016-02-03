@@ -1,7 +1,7 @@
 {
     "name":         "uncurry",
     "description":  "Smart functional programming.",
-    "version":      "1.0.0",
+    "version":      "0.1.0",
     "main":         "uncurry.js",
     "keywords":     ["uncurry", "smart", "functional", "programming"],
     "author":       "Aadit M Shah (https://aaditmshah.github.io/) <aaditmshah@fastmail.fm>",
